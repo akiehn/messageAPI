@@ -12,6 +12,8 @@ import java.util.List;
 @Singleton
 public class MessageResource {
 
+    // Implement authentication
+    
     private MessageController controller;
 
     public MessageResource() {
