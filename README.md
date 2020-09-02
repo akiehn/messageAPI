@@ -1,4 +1,4 @@
-# Messages API
+# MessagesBoard API
 
 Provides a basic API for sumbmitting and reading messages.
 This project uses java, maven, jax-rs, jersey and grizzly2.
